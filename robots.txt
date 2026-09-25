@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.shanshuiyunclash.com/sitemap.xml
